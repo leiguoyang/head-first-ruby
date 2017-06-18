@@ -1,0 +1,5 @@
+What's the weather like today?
+There's still no sunshile. Not so happy.
+It's about twelve o'clock. Why not have your lunch?
+Yeah, It's time to have my lunch and then go back to work and learn Ruby.
+Right! Better meal, better coding.
