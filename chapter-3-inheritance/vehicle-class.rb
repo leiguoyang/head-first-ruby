@@ -34,7 +34,7 @@ truck = Truck.new
 truck.accelerate
 truck.steer
 
-car + Car.new
+car = Car.new
 car.odometer = 11432
 car.gas_used = 366
 
