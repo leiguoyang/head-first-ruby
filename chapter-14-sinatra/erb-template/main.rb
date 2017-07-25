@@ -11,3 +11,8 @@ get "/meats" do
 
   erb :list
 end
+
+not_found do
+  status 404
+  '<h1 style="font-family: Verdana, sans-serif">Who stole my page? I cannot see it.</h1>'
+end
